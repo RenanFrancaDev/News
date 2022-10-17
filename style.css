@@ -1,0 +1,100 @@
+
+/* FONTE
+https://g1.globo.com/pr/parana/especial-publicitario/enerluz/energia-solar-energia-do-futuro/noticia/2021/09/27/como-funciona-um-sistema-de-geracao-de-energia-solar.ghtml */
+
+body{
+    font-family: 'Open Sans', 'Helvetica', 'Arial';
+    margin: 0; 
+    padding: 0;
+    color: #555;
+}
+
+h1, h2{
+    color: #111;
+}
+
+.top_bar{
+    background-color: #333;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    padding: 8px;
+    border-bottom: 5px solid orange ;
+}
+
+.container{
+    max-width: 888px;
+    margin: auto;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+
+.headline{
+    font-size: 56px;
+    line-height: 64px;
+}
+
+.subtitle{
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.author{
+    font-weight: bold;
+    font-size: 0.8em;
+
+}
+
+.social_icons{
+    margin-top: 10px;
+
+}
+
+.social_icon{
+    width: 20px;
+    padding: 10px 10px 10px 0px;
+}
+
+a{
+    text-decoration: none;
+    color: orange;
+    font-weight: bold;
+}
+
+.content{
+    max-width: 648px;
+    margin: auto;
+}
+
+.content > p{
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.cta{
+    font-size: 20px;
+    margin: 25px 0;
+}
+
+figure{
+    font-size: 12px;
+    padding: 0;
+    margin: 30px 0;
+}
+
+figure > img{
+    width: 100%;
+}
+
+footer{
+    background-color: #333;
+    height: 50px;
+    width: 100%;
+    color: white;
+    text-align:center;
+    padding-top: 20px;
+    }
+
+
